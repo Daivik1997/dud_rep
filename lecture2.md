@@ -11,6 +11,14 @@ snniniownsain ABC isnainsia DEF fdwsicniwc  GHI
 2. Install Plugin "Wrap to Column" 1.4.0 Andrew Brookins
 3. Check with Rendering: Ctrl + Shift+ Cmd + P (in Mac)
 4. Images folder in Markdown, notation section in Markdown: Raw->
+5. Check Dillinger
+6. Git Client/ *Git Bash* (install in file explorer)
+
+Clone: Local SSH Key(check with FutureSystems)/ PuTTy
+
+
+cd git_cmd
+
 
 # Assignment
 
