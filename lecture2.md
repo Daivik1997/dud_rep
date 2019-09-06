@@ -18,7 +18,7 @@ Clone: Local SSH Key(check with FutureSystems)/ PuTTy
 
 # Github Commands
 
-cd lecture2 /n
+cd lecture2 \n
 mkdir cm
 cd cm
 ls
