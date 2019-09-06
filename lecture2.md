@@ -10,6 +10,7 @@ snniniownsain ABC isnainsia DEF fdwsicniwc  GHI
 1. Install PyCharm
 2. Install Plugin "Wrap to Column" 1.4.0 Andrew Brookins
 3. Check with Rendering: Ctrl + Shift+ Cmd + P (in Mac)
+4. Images folder in Markdown, notation section in Markdown: Raw->
 
 # Assignment
 
