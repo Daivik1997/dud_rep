@@ -4,7 +4,7 @@
 
 # E.Datacenter.2.b
 
-Data Centre: China Telecome Americas
+Data Centre: China Telecom Americas
 Location: California
 Established Year: 2000
 
