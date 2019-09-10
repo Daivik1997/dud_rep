@@ -4,7 +4,7 @@ The Carbon Emission for "Inner Mongolia Information Park" is 0 because China has
 
 # E.Datacenter.2.b
 
-Inner Mongolia Information Park Data Centre is located in Inner Mongolia, China. It is owned by China Telecom. This is the largest data centre in Hohhot, the capital of Inner Mongolia. It was established in 2016. "In 2016, the region designated the big data and cloud computing industries as new engines for local development, vowing that the regional big data industry's output value will exceed 100 billion yuan (14.5 billion U. S. dollars) in 2020." *[1] (http://www.xinhuanet.com//english/2017-08/05/c_136502192_2.htm)
+Inner Mongolia Information Park Data Centre is located in Inner Mongolia, China. It is owned by China Telecom. This is the largest data centre in Hohhot, the capital of Inner Mongolia. It was established in 2016. "In 2016, the region designated the big data and cloud computing industries as new engines for local development, vowing that the regional big data industry's output value will exceed 100 billion yuan (14.5 billion U. S. dollars) in 2020." * [1] (http://www.xinhuanet.com//english/2017-08/05/c_136502192_2.htm)
 
 
 # E.Datacenter.3
