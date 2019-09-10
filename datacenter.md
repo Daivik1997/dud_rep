@@ -23,16 +23,20 @@ Since the yearly CO2 footprint is being minimized every year, it is hard to esti
 * According to my usage, my carbon footprint is 18,724LBS of CO2.
 
 # E.Datacenter.4
-All Major Data Centres at Facebook, Google and the ones in China use Hydro as their Renewal Energy.
+
+All major data centres at Facebook, Google and the ones in China use Hydro as their renewal energy. Electricity is the main source for data centres to power their systems. It is essential to keep this in check at all times. Infact, all major data centres including Microsoft and other IT related companies are moving towards sustainable environment and using energy-efficient sources. Most of these data centres are looking at doing this to ensure they are not harming the environment. They ensure that by doing so, they are well-known and qualified vendors all over the world. In the wake of the changing environment and pollution due to various emissions in daily life, renewal energy is looked at serious by all data centres.
+
 # E.Datacenter.5
 
 "China’s hyperscale data center industry is the second largest in the world, comprising 8% of the global
 market. Researchers estimate that in 2018 China was home to 1.2 million server racks from large and ultralarge scale data centers and 1.5 million server racks from small and mid-scale data centers. China’s data center industry consumed 161 TWh of
 electricity in 2018.35% of the country’s total electricity consumption. Researchers found that electricity consumption from the industry is on track to increase by 66% in the next five years, reaching 267 TWh by 2023, more than Australia’s total 2018 electricity consumption. In a typical data center in China, 80% of electricity is consumed by servers and cooling equipment." [4]
 
-Renewable Energy and impact of country's dynamics on the environment have been major factors for China over the past decade. Several initiatives have been taken to ensure that China is technology driven in eco friendly ways. But, electricity is one thing that was not paid much attention to. Now, significant efforts have been taken at data centres to ensure that there is cost cutting even in the electricity sector.
+Renewable Energy and impact of country's dynamics on the environment have been major factors for China over the past decade. Several initiatives have been taken to ensure that China is technology driven in eco friendly ways. But, electricity is one thing that was not paid much attention to. Now, significant efforts have been taken at data centres to ensure that there is cost cutting even in the electricity sector. 
 
 # E.Datacenter.8
+
+
 
 # References
 
